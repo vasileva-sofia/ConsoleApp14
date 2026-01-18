@@ -293,7 +293,6 @@ public class Book
         Console.WriteLine($"Страниц: {Pages}");
         Console.WriteLine($"жанр: {Genre}");
         Console.WriteLine($"год выпуска: {Year}");
-        Console.WriteLine($"Доступна: {mayRealese}");
     }
 }
 
